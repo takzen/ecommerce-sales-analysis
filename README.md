@@ -2,7 +2,7 @@
 
 ### An Exploratory Data Analysis of an Online Retail Dataset
 
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-2.2-blue.svg)
 ![Seaborn](https://img.shields.io/badge/seaborn-0.13-blue.svg)
 ![Jupyter](https://img.shields.io/badge/jupyter-lab-orange.svg)
@@ -33,7 +33,7 @@ The dataset used is the "Online Retail" dataset from the UCI Machine Learning Re
 
 ## Technical Stack
 
-*   **Language:** Python 3.11
+*   **Language:** Python 3.13
 *   **Libraries:**
     *   Pandas & NumPy for data cleaning and manipulation.
     *   Matplotlib & Seaborn for data visualization.
