@@ -69,11 +69,16 @@ To reproduce this analysis, please follow these steps:
 
 ## Visualizations Showcase
 
-*(This section will be filled with key charts and plots as they are generated during the analysis.)*
+Here are some of the key insights discovered during the analysis:
 
-**Example:**
-<!-- ![Monthly Sales Trend](images/monthly_sales_trend.png) -->
-<!-- *A line chart showing the total sales revenue per month.* -->
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+*A line chart showing the total sales revenue per month, highlighting a strong seasonal peak in November.*
+
+![Sales by Day and Hour](images/daily_hourly_sales.png)
+*Bar charts revealing that weekdays and midday hours are the prime shopping times, and uncovering a lack of sales on Saturdays.*
+
+![Top Countries and Customers](images/top_countries_customers.png)
+*A demonstration of how sales are heavily concentrated in the UK and driven by a small number of high-value customers.*
 
 ## Possible Next Steps
 
