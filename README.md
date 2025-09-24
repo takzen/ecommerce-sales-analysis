@@ -46,7 +46,7 @@ To reproduce this analysis, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ecommerce-sales-analysis.git
+    git clone https://github.com/takzen/ecommerce-sales-analysis.git
     cd ecommerce-sales-analysis
     ```
 
